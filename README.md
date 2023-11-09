@@ -1,6 +1,12 @@
 # TimeTec_Cloud_AWDMS_2(Storage XSS)
 
-Description of product : The TimeTec AWDMS is an online application that offers Application Programming Interface (API) for third-party application developers to integrate with TimeTec terminals; to retrieve user information, biometric data, transaction logs, and TimeTec devices information.
+NAME OF AFFECTED PRODUCT： AWDMS
+
+AFFECTED AND： 2.0
+
+Description : The TimeTec AWDMS is an online application that offers Application Programming Interface (API) for third-party application developers to integrate with TimeTec terminals; to retrieve user information, biometric data, transaction logs, and TimeTec devices information.
+
+
 
 Description of vulnerability : I found a stored XSS vulnerability after logging in to the system,But this time it comes from the name parameter
 
